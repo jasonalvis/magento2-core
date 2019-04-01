@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Jason Alvis Core
+ * Alvis Core
  *
- * @category    JasonAlvis
- * @package     JasonAlvis_Core
- * @author      Jason Alvis
- * @copyright   Copyright (c) 2016 Jason Alvis (http://jasonalvis.co.uk)
+ * @category    Alvis
+ * @package     Alvis_Core
+ * @author      Jason Ujma-Alvis
+ * @copyright   Copyright (c) 2019 Jason Ujma-Alvis (https://jason.codes)
  * @license     http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
  * @desc        Creates the menu item in the left hand navigation
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="JasonAlvis_Core::admin" title="Jason Alvis" module="JasonAlvis_Core" sortOrder="80" resource="JasonAlvis_Core::admin" />
+        <add id="Alvis_Core::admin" title="Alvis" module="Alvis_Core" sortOrder="80" resource="Alvis_Core::admin" />
     </menu>
 </config>
